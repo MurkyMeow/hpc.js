@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "ts-node-dev --respawn test/runner.ts"
+  },
+  "devDependencies": {
+    "@types/babel-core": "^6.25.6",
+    "@types/node": "^15.12.4",
+    "babel-core": "^6.26.3",
+    "ts-node-dev": "^1.1.6"
+  },
+  "dependencies": {
+    "babel-traverse": "^6.26.0"
+  }
+}
